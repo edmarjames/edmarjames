@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js, AWS**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://edmarjames.github.io/bautista-capstone-1/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://edmarjames.github.io/edmar-personal-portfolio/)
 
 - 💬 Ask me about **JavaScript, MERN, Python**
 
 - 📫 How to reach me **bautista_edmar@yahoo.com**
 
-- 📄 Know about my [experiences](https://www.canva.com/design/DAFNyCEiVS4/unEUBV58QInKJc3FrWDubA/view?utm_content=DAFNyCEiVS4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my [experiences](https://www.canva.com/design/DAFWT_RChWU/67L4ZMTfWWOoSfTPVuiOtw/view?utm_content=DAFWT_RChWU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
