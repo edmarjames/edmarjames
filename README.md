@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Next.js, AWS**
 
-- 👨‍💻 All of my projects are available at my [portfolio](https://edmarjames.github.io/edmar-personal-portfolio/)
+- 👨‍💻 All of my projects are available at my [portfolio](https://edmar-personal-portfolio.vercel.app/)
 
 - 💬 Ask me about **JavaScript, MERN, Python**
 
