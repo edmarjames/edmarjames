@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edmar James Bautista</h1>
-<h3 align="center">An aspiring full stack developer from Philippines</h3>
+<h3 align="center">Full stack developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=790b7611bf0719ec42b273e1dd06145577c034c0b9da7e56&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmarjames&label=Profile%20views&color=0e75b6&style=flat" alt="edmarjames" /> </p>
