@@ -27,6 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats-pink-two.vercel.app/api/top-langs?username=edmarjames&show_icons=true&locale=en&layout=compact" alt="edmarjames" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-pink-two.vercel.app/api?username=edmarjames&show_icons=true&locale=en" alt="edmarjames" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-pink-two.vercel.app/api?username=edmarjames&theme=github_dark&show_icons=true&locale=en" alt="edmarjames" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=edmarjames&" alt="edmarjames" /></p>
