@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmarjames&label=Profile%20views&color=0e75b6&style=flat" alt="edmarjames" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, Next.js, AWS**
+- 🌱 I’m currently learning **TypeScript, Next.js, Redux, AWS**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://edmar-personal-portfolio.vercel.app/)
 
