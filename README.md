@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmarjames&label=Profile%20views&color=0e75b6&style=flat" alt="edmarjames" /> </p>
 
-- 🌱 I’m currently learning **Angular.js, Docker, Django REST API**
+- 🌱 I’m currently learning **Angular.js, Docker, Django REST API, Django ORM**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://edmar-personal-portfolio.vercel.app/)
 
