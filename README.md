@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://edmar-personal-portfolio.vercel.app/)
 
-- 💬 Ask me about **JavaScript, MERN, Python**
+- 💬 Ask me about **ReactJS, Python, MySQL**
 
 - 📫 How to reach me **bautista_edmar@yahoo.com**
 
