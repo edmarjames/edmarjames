@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmarjames&label=Profile%20views&color=0e75b6&style=flat" alt="edmarjames" /> </p>
 
-- 🌱 I’m currently learning **Angular.js, Docker, Django REST API, Django ORM**
+- 🌱 I’m currently learning **Django ORM, Django REST API, NextJS, shadcn/ui**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://edmar-personal-portfolio.vercel.app/)
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bautista_edmar@yahoo.com**
 
-- 📄 Know about my [experiences](https://www.canva.com/design/DAFWT_RChWU/67L4ZMTfWWOoSfTPVuiOtw/view?utm_content=DAFWT_RChWU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 Know about my [experiences](https://www.canva.com/design/DAGKV-9wKCk/KiveEx26MCDAwcIDcIWLtQ/view?utm_content=DAGKV-9wKCk&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
