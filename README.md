@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmarjames&label=Profile%20views&color=0e75b6&style=flat" alt="edmarjames" /> </p>
 
-- 🌱 I’m currently learning **Django ORM, GraphQL, Typescript, Tailwind CSS, NextJS, shadcn/ui, Redux, Jest, React Testing Libray, Pytest**
+- 🌱 I’m currently learning **Django ORM, GraphQL, Typescript, Tailwind CSS, shadcn/ui, Redux, Jest, React Testing Library, NextJS, Pytest**
 
 - 👨‍💻 All of my projects are available at my [portfolio](https://edmar-personal-portfolio.vercel.app/)
 
